@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhro1234
 - 👀 I’m interested in Web Developement and IT Systems
-- 🌱 I’m currently learning C++
+- 🌱 I’m proefficient in C,python,java
 - 💞️ I’m looking to collaborate on Web Designs,Projects
 - 📫 How to reach me abhrochatterjee190205@gmail.com
 
